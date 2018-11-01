@@ -1,2 +1,2 @@
 # MapReduceWordCount
-Word Count Program With MapReduce and Java
+Word Count Program With Hadoop MapReduce and Java
